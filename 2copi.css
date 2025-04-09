@@ -1,0 +1,56 @@
+body{
+    background-color: #f88484;
+    color: #1c0259;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    border: 2px solid #350c95;
+    background-color: #d88cd6;
+    border-radius: 15px;
+    margin: auto;
+    padding: 10px;
+    width: 400px;
+    margin-top: 250px;
+    text-align: center;
+}
+#intro{
+    background-color: #c37bc0;
+    border-radius: 10px;
+}
+#numero{
+    font-size: 80px; /* Tamaño del texto */
+    margin-bottom: 15px;
+    border-radius: 100%;
+    width: 100px;   /* Ancho fijo del botón */
+    height:100px;   /* Alto fijo del botón */
+    margin: auto;
+    background-color: #c37bc0;
+}
+.container button{
+    margin-top: 22px;
+    margin-right: 20px;
+    margin-left: 5px;
+    border-radius: 5px;
+    width: 35px;   /* Ancho fijo del botón */
+    height: 35px;   /* Alto fijo del botón */
+    font-size: 25px; /* Tamaño del texto */
+    color: white;
+}
+#mas{
+    background-color: blue;
+}
+#menos{
+    background-color: red;
+}
+#reseteo{
+    width: 85px;   /* Ancho fijo del botón */
+    height: 35px;   /* Alto fijo del botón */
+    font-size: 25px; /* Tamaño del texto */
+    background-color: green;
+}
+#guardar{
+    width: 110px;   /* Ancho fijo del botón */
+    height: 35px;   /* Alto fijo del botón */
+    font-size: 25px; /* Tamaño del texto */
+    background-color: orange;
+}
